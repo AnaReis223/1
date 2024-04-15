@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body {
+    background-color: white;
+}
+
+.header {
+    align-items: center;
+}
+
+#par {
+    color: blue;
+    font-size: 20pt;
+}
+
+#impar {
+    color: red;
+    font-size: 16pt;
+}
