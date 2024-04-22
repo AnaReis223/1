@@ -23,3 +23,7 @@ body {
     border-color: black;
 }
 
+#titulo {
+    background-color: rgb(61, 98, 221);
+    border-radius: 10em;
+}
