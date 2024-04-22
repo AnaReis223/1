@@ -4,25 +4,13 @@ body {
     background-color: white;
 }
 
-#par {
+.par {
     color: blue;
     font-size: 20pt;
     font-family: Verdana;
 }
 
-#impar {
-    color: red;
-    font-size: 16pt;
-    font-family: Arial;
-}
-
-#par2 {
-    color: blue;
-    font-size: 20pt;
-    font-family: Verdana;
-}
-
-#impar2 {
+.impar {
     color: red;
     font-size: 16pt;
     font-family: Arial;
@@ -32,4 +20,6 @@ body {
     align-items: center;
     justify-content: center;
     display: flex;
+    border-color: black;
 }
+
